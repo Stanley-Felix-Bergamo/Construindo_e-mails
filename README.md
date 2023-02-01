@@ -1,16 +1,12 @@
 # Construindo e-mails com HTML
 
-<p>Projeto para ser usado em E-mails</p>
-<p>Faça o teste, usando o  <a href="https://putsmail.com/tests/new">Putsmail</a></p>
+<p>Projeto para ser usado em E-mail, faça o teste, usando o  <a href="https://putsmail.com/tests/new">Putsmail</a>.</p>
 
-<!-- 
 <div align="center" >
-    <img src="#" alt="imagem">
-    <img src="#" alt="imagem">
-    <img src="#" alt="imagem">
+    <img width="425rem" src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Construindo_e-mails/main/imagens/pj1.png" alt="imagem">
+    <img width="400rem" src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Construindo_e-mails/main/imagens/pj2.png" alt="imagem">
 </div> 
--->
-
+<br>
 <h2>👨‍🏫 Créditos</h2>
 <p>Este projeto foi realizado nas aulas do Curso de Profissão: Engenheiro Front-end, da <a href="https://ebaconline.com.br/cursos">Ebac</a>.</p>
 
