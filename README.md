@@ -6,6 +6,10 @@
     <img width="425rem" src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Construindo_e-mails/main/imagens/pj1.png" alt="imagem">
     <img width="400rem" src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Construindo_e-mails/main/imagens/pj2.png" alt="imagem">
 </div> 
+<div align="center" >
+    <img width="400rem" src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Construindo_e-mails/main/imagens/pj3.png" alt="imagem">
+    <img width="254rem" src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Construindo_e-mails/main/imagens/pj4.png" alt="imagem">
+</div> 
 <br>
 <h2>👨‍🏫 Créditos</h2>
 <p>Este projeto foi realizado nas aulas do Curso de Profissão: Engenheiro Front-end, da <a href="https://ebaconline.com.br/cursos">Ebac</a>.</p>
